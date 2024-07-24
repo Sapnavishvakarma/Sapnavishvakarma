@@ -1,4 +1,4 @@
-Certainly! Here's a Java program that takes a sentence as input from the user and counts the number of vowels and consonants:
+A Java program that takes a sentence as input from the user and counts the number of vowels and consonants:
 
 ```java
 import java.util.Scanner;
